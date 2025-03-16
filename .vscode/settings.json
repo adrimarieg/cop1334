@@ -1,0 +1,12 @@
+{
+"C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+"C_Cpp.default.includePath": [
+    "C:/msys64/ucrt64/include/c++/14.2.0",
+    "C:/msys64/ucrt64/include"
+],
+"files.associations": {
+    "iostream": "cpp",
+    "ostream": "cpp"
+}
+
+}
