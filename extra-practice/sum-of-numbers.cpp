@@ -24,17 +24,18 @@ int main () {
         cin >> input;
 
         if (input <= 0) {
-            cout << "Please enter a positive integer." << endl;
-            break;
+            cout << "You entered an invalid number." << endl;
         } else {
             for (int i = 0; i <= input; i++) {
                 sum += i;
             }
+
+            cout << "The total sum of numbers leading up to your input value is: " << sum << endl;
         }
- 
-        cout << "The total sum of numbers leading up to your input value is: " << sum << endl;
-        cout << "Would you like to enter another number? Y/N" ;
+
+        cout << "Would you like to enter another number? Y/N: " ;
         cin >> playAgain;
+
     } while (playAgain == 'y' || playAgain == 'Y');
     
     return 0;
