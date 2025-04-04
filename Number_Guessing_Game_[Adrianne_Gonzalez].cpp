@@ -88,4 +88,3 @@ int main() {
         cout << "Thank you for playing!" << endl << endl; // I added an additional endl for aesthetic purposes in the terminal
     }
 }
-

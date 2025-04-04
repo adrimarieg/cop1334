@@ -9,6 +9,7 @@ Input Validation: Do not accept a negative starting number.
 */
 
 #include <iostream>
+//#include <limits>
 
 using namespace std;
 
@@ -23,6 +24,7 @@ int main () {
         cout << "Please enter a positive integer: ";
         cin >> input;
 
+        //ADD CHECK FOR DATA TYPE
         if (input <= 0) {
             cout << "You entered an invalid number." << endl;
         } else {
