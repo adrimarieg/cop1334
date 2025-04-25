@@ -1,8 +1,7 @@
 /******************************************************************
  *  Program Name  : NumberGuessingGame
  *  Author        : Adrianne Gonzalez
- *  Course        : COP1334 - Introduction to C++ Programming
- *  Instructor    : John P. Masseria
+ *  Course        : Introduction to C++ Programming
  *  Date          : March 15, 2025
  *  
  *  Description   :

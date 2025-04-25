@@ -1,4 +1,4 @@
 *.exe, 
-class-notes.cpp
+class-notes.cpp,
 *.txt
 
